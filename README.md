@@ -38,7 +38,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 <br>
 
-| [<img src="Recursos/Imagen4.png" width="120"><br><sub><b>Keneth Ramos</b></sub>](javascript:void(0)) | [<img src="Recursos/Imagen5.png" width="120"><br><sub><b>Giodano Valero</b></sub>](javascript:void(0)) |
+| [<img src="Recursos/Imagen4.png" width="120"><br><sub><b>Kenneth Ramos</b></sub>](javascript:void(0)) | [<img src="Recursos/Imagen5.png" width="120"><br><sub><b>Giodano Valero</b></sub>](javascript:void(0)) |
 | :---: | :---: |
 | **Investigación** | **Documentación** |
 | _Gestión Ambiental_ | _Redacción Teórica_ |
