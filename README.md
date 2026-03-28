@@ -11,6 +11,13 @@ Nuestro objetivos como equipo es aplicar metodología innovadora para generar so
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
+| ODS 6 | ODS 7 | ODS 11 | ODS 12 | ODS 15 |
+| :---: | :---: | :---: | :---: | :---: |
+| 💧 | ⚡ | 🏙️ | ♻️ | 🌿 |
+| Agua Limpia | Energía Asequible | Ciudades Sostenibles | Producción Responsable | Vida Terrestre |
+
+---
+
 <h2 align="center">👥 Nuestro Equipo</h2>
 
 <div align="center">
