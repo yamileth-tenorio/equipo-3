@@ -22,49 +22,21 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 <div align="center">
 
-<table>
-<tr>
+| [<img src="Recursos/Imagen1.png" width="120"><br><sub><b>Yamileth Tenorio</b></sub>](javascript:void(0)) | [<img src="Recursos/Imagen2.jpg" width="120"><br><sub><b>Nicole Huamaní</b></sub>](javascript:void(0)) | [<img src="Recursos/Imagen3.jpg" width="120"><br><sub><b>Leslye Tadeo</b></sub>](javascript:void(0)) |
+| :---: | :---: | :---: |
+| **Jefe de Grupo** | **Programador** | **Diseño** |
+| _Sostenibilidad_ | _Diseño de datos_ | _Creatividad_ |
 
-<td align="center">
-<img src="Recursos/Imagen1.png" width="120" style="border-radius:50%"><br>
-<b>YAMILETH TENORIO INOCENTE</b><br>
-<i>Jefe de grupo</i><br>
-sostenibilidad, diseño de prototipos
-</td>
+<br>
 
-<td align="center">
-<img src="Recursos/Imagen2.jpg" width="120" style="border-radius:50%"><br>
-<b>NICOLE HUAMANÍ MAMANÍ</b><br>
-<i>Programador</i><br>
-programación, diseño de datos
-</td>
-
-<td align="center">
-<img src="Recursos/Imagen3.jpg" width="120" style="border-radius:50%"><br>
-<b>LESLYE TADEO ARQUINIGO</b><br>
-<i>Diseño</i><br>
-diseño de prototipos, creatividad
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="Recursos/Imagen4.png" width="120" style="border-radius:50%"><br>
-<b>KENETH RAMOS ESPINOZA</b><br>
-<i>Investigación</i><br>
-gestión ambiental, desarrollo comunitario
-</td>
-
-<td align="center">
-<img src="Recursos/Imagen5.png" width="120" style="border-radius:50%"><br>
-<b>GIODANO VALERO BONIFACIO</b><br>
-<i>Documentación</i><br>
-comunicación científica, redacción teórica
-</td>
-
-</tr>
-</table>
+| [<img src="Recursos/Imagen4.png" width="120"><br><sub><b>Keneth Ramos</b></sub>](javascript:void(0)) | [<img src="Recursos/Imagen5.png" width="120"><br><sub><b>Giodano Valero</b></sub>](javascript:void(0)) |
+| :---: | :---: |
+| **Investigación** | **Documentación** |
+| _Gestión Ambiental_ | _Redacción Teórica_ |
 
 </div>
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/UPCH-Innovaci%C3%B3n-green?style=for-the-badge" alt="UPCH Badge">
+</p>
