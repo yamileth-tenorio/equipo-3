@@ -20,14 +20,14 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 <td align="center">
 <img src="Recursos/Imagen1.png" width="120" style="border-radius:50%"><br>
-<b>Giordano Valentino Valero Bonifacio</b><br>
+<b>YAMILETH TENORIO INOCENTE</b><br>
 <i>Jefe de grupo</i><br>
 sostenibilidad, diseño de prototipos
 </td>
 
 <td align="center">
 <img src="Recursos/Imagen2.jpg" width="120" style="border-radius:50%"><br>
-<b>Keneth Samir Ramos Espinoza</b><br>
+<b>NICOLE HUAMANÍ MAMANÍ</b><br>
 <i>Programador</i><br>
 programación, diseño de datos
 </td>
@@ -45,14 +45,14 @@ diseño de prototipos, creatividad
 
 <td align="center">
 <img src="Recursos/Imagen4.png" width="120" style="border-radius:50%"><br>
-<b>Nicole Huamani Mamani</b><br>
+<b>KENETH RAMOS ESPINOZA</b><br>
 <i>Investigación</i><br>
 gestión ambiental, desarrollo comunitario
 </td>
 
 <td align="center">
 <img src="Recursos/Imagen5.png" width="120" style="border-radius:50%"><br>
-<b>Yamileth Anahi Tenorio Inocente</b><br>
+<b>YGIODANO VALERO BONIFACIO</b><br>
 <i>Documentación</i><br>
 comunicación científica, redacción teórica
 </td>
