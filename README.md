@@ -1,13 +1,22 @@
-# equipo-3
+#  Equipo - Procesos de Innovación para Ingeniería
 
-Equipo - Procesos de innovación para ingeniería 
-Carrera de Ingeniería Ambiental / Informática / Industrial
-Universidad Peruana Cayetano Heredia
+<p align="left">
+  <strong>Carrera:</strong> Ingeniería Ambiental / Informática / Industrial <br>
+  <strong>Institución:</strong> Universidad Peruana Cayetano Heredia <br>
+  <strong>Periodo:</strong> 2026-1
+</p>
 
-Descripción del Equipo 
-Somos el equipo del curso Procesos de innovación para ingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Ambiental, Informática e Industrial.
+---
 
-Nuestro objetivos como equipo es aplicar metodología innovadora para generar soluciones con impacto en el ámbito ambiental, tecnológico y social
+##  Descripción del Equipo
+Somos el equipo del curso **Procesos de Innovación para Ingeniería 2026-1**, conformado por estudiantes de las carreras de Ingeniería Ambiental, Informática e Industrial. 
+
+Nuestro objetivo como equipo es aplicar **metodologías innovadoras** para generar soluciones con impacto real en los ámbitos:
+- 🌱 **Ambiental**
+- 💻 **Tecnológico**
+- 🤝 **Social**
+
+---
 
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
