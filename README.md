@@ -33,10 +33,10 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 | *Foto* | *Nombre* | *Rol* | *Intereses* |
 | :---: | :---: | :---: | :---: |
-| <img src="Recursos/Imagen1.png" width="90"> | *YAMILETH TENORIO INOCENTE* | Jefe de grupo | Sostenibilidad, diseño de prototipos |
-| <img src="Recursos/Imagen2.jpg" width="90"> | *NICOLE HUAMANÍ MAMANÍ* | Programador | Programación, diseño de datos |
-| <img src="Recursos/Imagen3.jpg" width="90"> | *LESLYE TADEO ARQUINIGO* | Diseño | Diseño de prototipos, creatividad |
-| <img src="Recursos/Imagen4.png" width="90"> | *KENNETH RAMOS ESPINOZA* | Investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="Recursos/Imagen5.png" width="90"> | *GIODANO VALERO BONIFACIO* | Documentación | Comunicación científica, redacción teórica |
+| <img src="Recursos/Imagen3.jpg" width="90"> | *LESLYE TADEO ARQUINIGO* | Jefe de grupo | Creatividad, liderazgo |
+| <img src="Recursos/Imagen5.png" width="90"> | *GIODANO VALERO BONIFACIO* | Programador | Programación, simulación |
+| <img src="Recursos/Imagen4.png" width="90"> | *KENNETH RAMOS ESPINOZA* | Diseño | Diseño de prototipos, creatividad |
+| <img src="Recursos/Imagen2.jpg" width="90"> | *NICOLE HUAMANÍ MAMANÍ* | Investigación | Gestión ambiental, análisis |
+| <img src="Recursos/Imagen1.png" width="90"> | *YAMILETH TENORIO INOCENTE* | Documentación | Redacción técnica, comunicación científica |
 
 </div>
