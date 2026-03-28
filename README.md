@@ -34,7 +34,7 @@ programación, diseño de datos
 
 <td align="center">
 <img src="Recursos/Imagen3.jpg" width="120" style="border-radius:50%"><br>
-<b>Lesly Tatiana Tadeo Arquinigo</b><br>
+<b>LESLYE TADEO ARQUINIGO</b><br>
 <i>Diseño</i><br>
 diseño de prototipos, creatividad
 </td>
@@ -52,7 +52,7 @@ gestión ambiental, desarrollo comunitario
 
 <td align="center">
 <img src="Recursos/Imagen5.png" width="120" style="border-radius:50%"><br>
-<b>YGIODANO VALERO BONIFACIO</b><br>
+<b>GIODANO VALERO BONIFACIO</b><br>
 <i>Documentación</i><br>
 comunicación científica, redacción teórica
 </td>
