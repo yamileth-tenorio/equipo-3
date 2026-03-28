@@ -31,21 +31,49 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 <div align="center">
 
-| [<img src="Recursos/Imagen1.png" width="120"><br><sub><b>Yamileth Tenorio</b></sub>](javascript:void(0)) | [<img src="Recursos/Imagen2.jpg" width="120"><br><sub><b>Nicole Huamaní</b></sub>](javascript:void(0)) | [<img src="Recursos/Imagen3.jpg" width="120"><br><sub><b>Leslye Tadeo</b></sub>](javascript:void(0)) |
-| :---: | :---: | :---: |
-| **Jefe de Grupo** | **Programador** | **Diseño** |
-| _Sostenibilidad_ | _Diseño de datos_ | _Creatividad_ |
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; max-width: 900px; margin: auto;">
 
-<br>
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+    <img src="Recursos/Imagen1.png" width="120"><br>
+    <b>Yamileth Tenorio</b><br>
+    <b>Jefe de Grupo</b><br>
+    <i>Sostenibilidad</i>
+  </div>
 
-| [<img src="Recursos/Imagen4.png" width="120"><br><sub><b>Kenneth Ramos</b></sub>](javascript:void(0)) | [<img src="Recursos/Imagen5.png" width="120"><br><sub><b>Giodano Valero</b></sub>](javascript:void(0)) |
-| :---: | :---: |
-| **Investigación** | **Documentación** |
-| _Gestión Ambiental_ | _Redacción Teórica_ |
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+    <img src="Recursos/Imagen2.jpg" width="120"><br>
+    <b>Nicole Huamaní</b><br>
+    <b>Programador</b><br>
+    <i>Diseño de datos</i>
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+    <img src="Recursos/Imagen3.jpg" width="120"><br>
+    <b>Leslye Tadeo</b><br>
+    <b>Diseño</b><br>
+    <i>Creatividad</i>
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+    <img src="Recursos/Imagen4.png" width="120"><br>
+    <b>Kenneth Ramos</b><br>
+    <b>Investigación</b><br>
+    <i>Gestión Ambiental</i>
+  </div>
+
+  <div style="border:1px solid #ccc; padding:10px; border-radius:10px;">
+    <img src="Recursos/Imagen5.png" width="120"><br>
+    <b>Giodano Valero</b><br>
+    <b>Documentación</b><br>
+    <i>Redacción Teórica</i>
+  </div>
+
+</div>
 
 </div>
 
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/UPCH-Innovaci%C3%B3n-green?style=for-the-badge" alt="UPCH Badge">
 </p>
