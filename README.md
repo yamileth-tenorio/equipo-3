@@ -22,7 +22,7 @@ Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
 | ODS 6 | ODS 7 | ODS 11 | ODS 12 | ODS 15 |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="Recursos/ODS 7.jpg" width="40"> | <img src="Recursos/Imagen8.jpq" width="40"> | <img src="Recursos/Imagen9.jpg" width="40"> | <img src="Recursos/Imagen10.jpg" width="40"> | <img src="Recursos/Imagen11.jpg" width="40"> |
+| <img src="Recursos/ODS 7.jpg" width="40"> | <img src="Recursos/ODS11.PNG" width="40"> | <img src="Recursos/ODS12.jpg" width="40"> | <img src="Recursos/ODS15.png" width="40"> | <img src="Recursos/ODS6.png" width="40"> |
 | Agua Limpia | Energía Asequible | Ciudades Sostenibles | Producción Responsable | Vida Terrestre |
 
 ---
