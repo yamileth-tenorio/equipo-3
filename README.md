@@ -1,6 +1,6 @@
 # equipo-3
-Equipo - Procesos de innovación para ingeniería 
 
+Equipo - Procesos de innovación para ingeniería 
 Carrera de Ingeniería Ambiental / Informática / Industrial
 Universidad Peruana Cayetano Heredia
 
