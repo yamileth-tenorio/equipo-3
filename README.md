@@ -17,7 +17,8 @@ Nuestro objetivo como equipo es aplicar **metodologías innovadoras** para gener
 - 🤝 **Social**
 
 ---
-
+##  Foto grupal
+<img src="grupal.png" alt="Foto grupal" width="400"/>
 Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
 | ODS 6 | ODS 7 | ODS 11 | ODS 12 | ODS 15 |
